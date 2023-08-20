@@ -1,9 +1,9 @@
-# Ramanjit Singh :man_technologist:
+# Ramanjit Singh 👨‍💻 
 ###### Python Developer 🚀 | Django 🌐 | SQL 📊 | Machine Learning 🤖 | Cloud Computing ☁️ | Microsoft Azure ☁️ | GitHub 😺 | Project Based Learner 📘📚🚀
 
 ---
 
-## About Me :wave:
+## About Me ✅
 
 I'm Ramanjit Singh, an aspiring Software Developer on a mission to create innovative solutions that marry technology with real-world challenges. Currently a dedicated student, I'm passionately exploring the intricate world of coding and software development.
 
@@ -107,7 +107,7 @@ Django | Software Development | Web Development | Java | OOPs | Python | SQL | M
 
 - [GitHub](https://github.com/RamanjitSingh2027825)) :octocat:
 - [LinkedIn](https://www.linkedin.com/in/ramanbainsedu214/) 💼
-- [Devfolio](https://www.yourportfolio.com) 🌐
+- [Devfolio](https://devfolio.co/@Raman_1368) 🌐
 
 ## Contact 🔗
 
