@@ -105,8 +105,8 @@ Django | Software Development | Web Development | Java | OOPs | Python | SQL | M
 
 ## Links 🔗
 
-- [GitHub](https://github.com/yourusername) :octocat:
-- [LinkedIn](https://www.linkedin.com/in/yourusername) 💼
+- [GitHub](https://github.com/RamanjitSingh2027825)) :octocat:
+- [LinkedIn](https://www.linkedin.com/in/ramanbainsedu214/) 💼
 - [Devfolio](https://www.yourportfolio.com) 🌐
 
 ## Contact 🔗
