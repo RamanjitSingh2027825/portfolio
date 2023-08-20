@@ -99,13 +99,28 @@ Let's connect and explore the frontiers of coding, the latest tech trends, and i
 
 ## Skills 🛠️
 
-Django | Software Development | Web Development | Java | OOPs | Python | SQL | Machine Learning | Data Science | HTML | Cascading Style Sheets (CSS) | JavaScript | Problem Solving | Project Management | Team | Microsoft Office |
+- Django
+- Software Development
+- Web Development
+- Java
+- OOPs
+- Python
+- SQL
+- Machine Learning
+- Data Science
+- HTML
+- Cascading Style Sheets (CSS)
+- JavaScript
+- Problem Solving
+- Project Management
+- Team
+- Microsoft Office
 
 ---
 
 ## Links 🔗
 
-- [GitHub](https://github.com/RamanjitSingh2027825)) :octocat:
+- [GitHub](https://github.com/RamanjitSingh2027825) 😹
 - [LinkedIn](https://www.linkedin.com/in/ramanbainsedu214/) 💼
 - [Devfolio](https://devfolio.co/@Raman_1368) 🌐
 
