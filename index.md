@@ -1,131 +1,131 @@
-# Ramanjit Singh 👨‍💻 
-###### Python Developer 🚀 | Django 🌐 | SQL 📊 | Machine Learning 🤖 | Cloud Computing ☁️ | Microsoft Azure ☁️ | GitHub 😺 | Project Based Learner 📘📚🚀
+# Ramanjit Singh 👨‍💻
+**SDE II at Sifars | AI, Workflow Automation, RAG Systems, and CRM Integrations**
+
+📍 Patiala, Punjab, India (On-site) · 📧 [ramanbainsedu214@gmail.com](mailto:ramanbainsedu214@gmail.com) · 📞 [+91-6283371390](tel:+916283371390) · 💬 [WhatsApp](https://wa.me/916283371390)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ramanbainsedu214/) · 🧑‍💻 [GitHub](https://github.com/RamanjitSingh2027825)
 
 ---
 
 ## About Me ✅
-
-I'm Ramanjit Singh, an aspiring Software Developer on a mission to create innovative solutions that marry technology with real-world challenges. Currently a dedicated student, I'm passionately exploring the intricate world of coding and software development.
-
-My journey has been enriched by participating in three national-level hackathons and tech fests, which have not only sharpened my problem-solving skills but have also ignited my fascination for collaborative innovation.
-
-Proficient in Python and Java, I thrive in the realm of machine learning, data science, and web development. I've crafted diverse projects, ranging from an intuitive Python email client for automated notifications to "ChronoGuard," a machine learning-based web app predicting chronic diseases from medical records. Building a movie recommendation system using collaborative filtering techniques has been yet another exciting endeavor.
-
-What truly energizes me is the constantly evolving landscape of cloud computing. My sights are set on mastering cloud technologies, especially Azure, as I believe the future is about scalable and inventive cloud solutions.
-
-Beyond the code, I'm a natural communicator. Engaging in technical dialogues and sharing insights with fellow enthusiasts is where I find my synergy. I firmly believe that the exchange of knowledge is pivotal for our collective growth as a tech community.
-
-Let's connect and explore the frontiers of coding, the latest tech trends, and innovative solutions. Whether you're a coding aficionado, an AI explorer, or simply curious about the tech realm, I'd be delighted to connect and exchange experiences. Feel free to reach out and let's embark on this exciting journey of mutual learning and creation.
+Software Engineer with hands-on experience in AI workflow automation, RAG pipelines, and CRM integrations. I build end-to-end automations that connect data sources, messaging platforms, and scheduling tools to deliver real-time, personalized experiences. I enjoy designing scalable systems, improving process efficiency, and collaborating across teams to ship reliable AI products.
 
 ---
 
 ## Experience 💼
 
-### Python Developer
-- **Company:** Technohacks edutech
-- **Location:** Remote
-- **Duration:** August 2023 – September 2023
-- **Responsibilities:** Worked on Python projects and tasks.
+### Sifars
+**SDE II** · *Jan 2026 – Present*  
+**SDE I** · *Jul 2024 – Dec 2025* (Remote)  
+**Software Engineer Intern** · *Jan 2024 – Jun 2024* (On-site, Patiala, Punjab)
 
----
-
-## Education 🎓
-
-### B.Tech in Computer Science and Engineering
-- **Institution:** Gulzar Group of Institutions, Ludhiana
-- **Duration:** 2020-2024
-- **SGPA:** 8.5
-- **Activities:** Member Coordinator, S3A - Student's Society for Scientific Advancement
-- **Participations:** ROBOMANIA 2022, GNA Hackathon 1.0, SMART Hackathon, International Humanity Olympiad 2023
-
-### XII Non Medical
-- **Institution:** GSS Smart School, PAU Ludhiana
-- **Duration:** 2018-2020
-- **SGPA:** 91%
-- **Participations:** International Humanity Olympiad 2019 (Top 500 Performer)
-
----
-
-## Certifications and Courses 📚
-
-- SQL Intermediate Course | Sololearn | July 2023
-- SQL Challenge 5🌟 | HackerRank | July 2023
-- Java | Sololearn | July 2023
-- Web Development | Sololearn | June 2023
-- Computer Networks | Scaler Topics | March 2023
-- Machine Learning | Internshala | September 2022
-- Python Essentials | Cisco | July 2022
-
-
----
-
-## Hackathons 💡
-
-### ROBOMANIA 2k22
-- **Organizer:** Gulzar Group of Institutions, Khanna
-- **Date:** February 2022
-- **Role:** Programmer
-
-### GNA Hackathon 1.0
-- **Organizer:** GNA University, Phagwara
-- **Date:** November 2022
-- **Role:** Programmer and Team Leader
-
-### The SMART Hackathon
-- **Organizer:** Google Developer Group Ludhiana and Google Developer Group Chandigarh
-- **Date:** February 2023
-- **Role:** Programmer and Team Leader
+### Internshala Trainings
+**Machine Learning Trainee** · *Jul 2022 – Sep 2022* (Remote)
 
 ---
 
 ## Projects 🛠️
 
-### ChronoGuard - Guarding Your Health Against Chronic Diseases Using ML
-- **Date:** February 2023
-- **Role:** Programmer
-- **Description:** A machine learning-based application that predicts the likelihood of chronic diseases based on medical history and lab reports.
+### Poplife25 (AI Workflow Automation) — *Apr 2025 – May 2025*
+An end-to-end workflow automation solution built on Zapier for marketing and lead management.  
+**Highlights:** Email/SMS campaign automation, Google Sheets data sync, dynamic Canva sheet generation, and personalized outreach.  
+**Skills:** Workflow Automation · Workflow Design · Zapier · APIs
 
-### Content-Based Movie Recommender System Using Unsupervised Learning Techniques
-- **Date:** August 2022 – September 2022
-- **Role:** Programmer
-- **Description:** A content-based filtering application suggesting personalized movies to users using unsupervised machine learning.
+### ClientIQ (CRM Automation & AI Assistant) — *Mar 2025 – Apr 2025*
+CRM automation platform integrating Filevine CRM with an AI assistant for client intake and scheduling.  
+**Highlights:** RAG-based document search, webhook integrations, Plivo SMS alerts, and Google Calendar booking with intent recognition.  
+**Skills:** Webhooks · Google Calendar API · Python · RAG · Plivo · Filevine CRM · HLD/LLD
 
-### Library Notification System: Add-On Feature for Library Management System Using Automated Email Client
-- **Date:** March 2022
-- **Role:** Programmer
-- **Description:** Automates book return process by sending automated alert emails to borrowers before the due date.
+### KeepMe AI Chatbot with CRM Integration — *Jan 2025 – Mar 2025*
+Real-time AI chatbot (text + voice) integrated with HubSpot CRM for lead capture and scheduling.  
+**Highlights:** Streaming WebSockets/WebRTC, timezone-aware booking, and calendar sync.  
+**Skills:** GPT Real-Time APIs · WebSockets · WebRTC · HubSpot CRM · Python
+
+### Demo Videos & Case Studies — *Sep 2024 – Feb 2025*
+Produced demo videos and case studies to showcase Sifars’ product solutions.  
+**Skills:** Technical Writing · Video Editing · Cross-team Collaboration · Documentation
+
+### Edysor EduTech Bot — *Sep 2024 – Jan 2025*
+Study-abroad guidance chatbot using RAG with Pinecone and SQL generation for PostgreSQL.  
+**Highlights:** Domain content ingestion, SQL agent workflows, and Markdown image parsing.  
+**Skills:** PostgreSQL · Pinecone · Python · RAG · SQL · Docker
+
+### Sustainability Chatbot — *Jun 2024 – Jul 2024*
+RAG chatbot using a self-hosted LLaMA model on AWS SageMaker with Pinecone vector store.  
+**Highlights:** Web scraping via Jina.ai, PDF parsing, streaming responses.  
+**Skills:** LLaMA · AWS SageMaker · Pinecone · Python · RAG · Token Streaming
+
+### Instaletter.ai — *May 2024 – Jun 2024*
+Resume content generation platform using structured parsers and OpenAI function/tool calling.  
+**Highlights:** ATS-optimized resumes with clean formatting and keyword alignment.  
+**Skills:** FastAPI · LangChain · OpenAI Function/Tool Calling · PostgreSQL
+
+### Adina Chatbot — *Feb 2024 – Apr 2024*
+LLM-powered RAG chatbot for product/formulation Q&A with PDF upload support.  
+**Highlights:** AWS Textract for PDF OCR, Pinecone vector store, LangChain agents.  
+**Skills:** FastAPI · LangChain · Pinecone · AWS Textract · AWS S3
+
+### Chronoguard — *Feb 2023*
+Hackathon project predicting chronic disease likelihood from medical history and lab reports.  
+**Skills:** Decision Trees · NumPy · Teamwork
+
+### Content-Based Movie Recommender — *Aug 2022 – Sep 2022*
+Recommendation system using unsupervised ML and cosine similarity for personalized movie suggestions.  
+**Skills:** Project Management
+
+### Library Notification System — *Mar 2022*
+Automated library return reminders using email alerts and Python + Excel-based data handling.  
+**Skills:** Python · SMTP · Teamwork
 
 ---
 
 ## Skills 🛠️
-
-- Django
-- Software Development
-- Web Development
-- Java
-- OOPs
-- Python
-- SQL
-- Machine Learning
-- Data Science
-- HTML
-- Cascading Style Sheets (CSS)
-- JavaScript
-- Problem Solving
-- Project Management
-- Team
-- Microsoft Office
+- AI & ML: RAG Pipelines, Prompt Engineering, Token Streaming, LLaMA, GPT Real-Time APIs
+- Backend: Python, FastAPI, LangChain, REST APIs, Webhooks
+- Data: PostgreSQL, MongoDB, Pinecone, SQL
+- Cloud/Infra: AWS SageMaker, AWS S3, Docker, EC2, RDS
+- Integrations: HubSpot CRM, Filevine CRM, Plivo, Google Calendar API, Zapier
+- Collaboration: Project Management, Technical Writing, Cross-team Collaboration
 
 ---
 
-## Links 🔗
+## Education 🎓
 
-- [GitHub](https://github.com/RamanjitSingh2027825) 😹
-- [LinkedIn](https://www.linkedin.com/in/ramanbainsedu214/) 💼
-- [Devfolio](https://devfolio.co/@Raman_1368) 🌐
+### Gulzar Group of Institutes — *B.Tech, Computer Science* (Apr 2020 – Jul 2024)
+**Grade:** 8.4  
+**Highlights:** Member Coordinator (S3A), national-level hackathons, and technical events participation.
 
-## Contact 🔗
+### Punjab School Education Board (PSEB) — *Senior Secondary, XII (Non Medical)* (Apr 2018 – Mar 2020)
+**Grade:** 91  
+**Highlights:** International Humanity Olympiad 2019 (Top 500 Performer).
 
-- 📧 Email: [ramanbainsedu214@gmail.com](ramanbaainsedu214@gmail.com)
-- 📞 Mobile: [+91-6283371390](tel:+916283371390)
-- 💬 Whatsapp: [+91-6283371390](https://wa.me/916283371390)
+---
+
+## Certifications 📚
+- Web Development — Sololearn (Jul 2023)
+- OOPS in Java — Coding Ninjas (Oct 2022)
+- SQL Intermediate — Sololearn (Jun 2023)
+- SQL Introduction — Sololearn (Jun 2023)
+- SQL (Basic) — HackerRank (Jul 2023)
+- Foundations of Cybersecurity — Google (May 2023)
+- Computer Networks — Scaler (Mar 2023)
+- Machine Learning Training — Internshala (Sep 2022)
+- Machine Learning & Image Processing — Cisco ThingQbator RVCE (Aug 2022)
+- Python Essentials 1 — Cisco (Jul 2022)
+- Robomania 2022 — GGI (Mar 2022)
+- Python Exam — StudySection (Jul 2022)
+
+---
+
+## Honors & Awards 🏆
+- 9th International Humanity Olympiad 2k23 — Score 83%
+- SMART Hackathon — Participant (Feb 2023)
+- GNA Hackathon 1.0 — Top 15 Runner-up (Nov 2022)
+- 8th International Humanity Olympiad 2022 — Top 3% Runner-up
+- 5th International Humanity Olympiad 2019 — Top 500 Runner-up
+
+---
+
+## Languages 🗣️
+- English — Professional working proficiency
+- Hindi — Professional working proficiency
+- Punjabi — Native or bilingual proficiency
